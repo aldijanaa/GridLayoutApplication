@@ -1,2 +1,2 @@
 # GridLayoutApplication
-Made in Kotlin with Android Studio
+Mobile application made in Kotlin with Android Studio.
